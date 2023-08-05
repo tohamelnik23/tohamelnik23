@@ -1,7 +1,7 @@
 # Full Stack Web Developer 
 ### Hi there 👋
 
-## Thank you for visiting my GitHub.
+#### Thank you for visiting my GitHub.
 
  ### Front-End
 - ✅ jQuery & Bootstrap, SCSS, JavaScript.
