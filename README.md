@@ -1,19 +1,25 @@
-# Full Stack Web Developer
-
-
+# Full Stack Web Developer 
 ### Hi there 👋
 
-<!--
-**tohamelnik23/tohamelnik23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Thank you for visiting my GitHub.
 
-Here are some ideas to get you started:
+ ### Front-End
+- ✅ jQuery & Bootstrap, SCSS, JavaScript.
+- ✅ React.js, Redux
+- ✅ Vue.js, Vue2, Vue3, Vuex
+- ✅ Angular.js, Angular2+
+- ✅ D3.js, Three.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Back-End
+- ✅ PHP & PHP frameworks - Laravel, Symfony, Codeigniter
+- ✅ Python & Django
+- ✅ Node.js, Express.js
+- ✅ MySQL, MySQLi, PostgreSQL, Firebase
+Full-stack
+- ✅ WordPress/Woo-commerce, Plugins & Theme development and customization
+- ✅ Shopify, Theme customization, App development
+
+Mobile App
+- ✅ React-Native, Cordova
+- ✅ Java for Android, Swift, Flutter
+ 
